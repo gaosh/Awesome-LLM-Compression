@@ -747,7 +747,7 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 
 - STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning <br> Arxiv 2024 [[Paper]](https://arxiv.org/abs/2409.06211)
 
-- DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.11988)
+- DISP-LLM: Dimension-Independent Structural Pruning for Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2410.11988) [[Code]](https://github.com/ZhengaoLi/DISP-LLM-Dimension-Independent-Structural-Pruning)
 
 - Search for Efficient Large Language Models <br> NeurIPS 2024 [[Paper]](https://arxiv.org/abs/2409.17372)
 
